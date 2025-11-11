@@ -21,6 +21,8 @@ propostas pelo professor em sala de aula.
 |Exercício | Resolução | Dificuldade |
 | -- | -- | -- |
 | [Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/description/) | [merge_k_sorted_lists.py](https://github.com/projeto-de-algoritmos-2025/DeC-D55/tree/main/merge_k_sorted_lists.py) | Difícil |
+| [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description) | [Median.py](https://github.com/projeto-de-algoritmos-2025/DeC-D55/tree/main/Median.py) | Difícil |
+| [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/description) | [Construct.py](https://github.com/projeto-de-algoritmos-2025/DeC-D55/tree/main/Construct.py) | Médio |
 
 
 ## Vídeo
@@ -31,6 +33,14 @@ propostas pelo professor em sala de aula.
 
 ## Screenshots
 - *Merge K Sorted Lists*
+<div align="center">
+	<img src="assets/merge_k_sorted_lists.png" alt="Merge K Sorted Lists" width="400"/>
+</div>
+- *Median of Two Sorted Arrays*
+<div align="center">
+	<img src="assets/merge_k_sorted_lists.png" alt="Merge K Sorted Lists" width="400"/>
+</div>
+- *Construct Binary Tree from Preorder and Inorder Traversal*
 <div align="center">
 	<img src="assets/merge_k_sorted_lists.png" alt="Merge K Sorted Lists" width="400"/>
 </div>
