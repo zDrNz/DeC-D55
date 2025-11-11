@@ -28,7 +28,7 @@ propostas pelo professor em sala de aula.
 ## Vídeo
 |Vídeo de explicação|
 |--|
-| [Clique aqui]() |
+| [Clique aqui](https://youtu.be/Ac27TH15GFY) |
 
 
 ## Screenshots
