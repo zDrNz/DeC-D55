@@ -38,11 +38,11 @@ propostas pelo professor em sala de aula.
 </div>
 - *Median of Two Sorted Arrays*
 <div align="center">
-	<img src="assets/merge_k_sorted_lists.png" alt="Merge K Sorted Lists" width="400"/>
+	<img src="assets/imagem_2025-11-10_224804168.png" alt="Median" width="400"/>
 </div>
 - *Construct Binary Tree from Preorder and Inorder Traversal*
 <div align="center">
-	<img src="assets/merge_k_sorted_lists.png" alt="Merge K Sorted Lists" width="400"/>
+	<img src="assets/imagem_2025-11-10_224705772.png" alt="Construct" width="400"/>
 </div>
 
 
